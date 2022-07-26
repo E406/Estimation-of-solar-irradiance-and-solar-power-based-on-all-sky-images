@@ -10,7 +10,7 @@ They are solar irradiance, solar positions and all-sky images.
 Irradiance:
 ![image](https://user-images.githubusercontent.com/109645915/180937724-ec4a1135-de86-46c2-a826-4d7e1c710b3b.png)
 All-sky image
-![20210218102500_11](https://user-images.githubusercontent.com/109645915/180938035-f04f1b14-6e63-4af5-814a-6dc7078db96d.jpg)
+![Github用圖](https://user-images.githubusercontent.com/109645915/180938443-7a1e71d1-b5db-4b6a-b1e0-aabc461601ed.jpg)
 
 Results
 
